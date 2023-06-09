@@ -1,0 +1,5 @@
+NAME = input()
+Salary = float(input())
+Sale = float(input())
+Final_Salary = Salary+((15/100)*Sale)
+print("TOTAL = R$ %0.2f"%Final_Salary)
